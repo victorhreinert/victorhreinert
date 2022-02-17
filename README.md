@@ -29,10 +29,17 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
+<div align="center">
   <img width="360em" src="https://github-readme-stats.vercel.app/api?username=victorhreinert&show_icons=true&title_color=E93757&icon_color=E93757&text_color=FFFFFF&bg_color=1A1A1A" alt="victor's stats"/> &nbsp;
+
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhreinert&layout=compact&title_color=E93757&icon_color=E93757&text_color=FFFFFF&bg_color=1A1A1A" alt="victor's most languages"/>
-</p>
+
+</div>
+
+
+---
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 
 <!--
 **victorhreinert/victorhreinert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
