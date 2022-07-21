@@ -2,7 +2,7 @@
 
 # Olá, Eu sou o Victor Hugo Reinert 👋
 
-- ⚡ Fato interresante: Meu sonho é ser desenvolvedor Front-End.
+- ⚡ Fato interresante: Meu sonho é ser desenvolvedor Fullstack.
 - 🌱 Formação: Estudante de análise e desenvolvimento de sistemas - UNITER. 
 - 🚀 Atualmente: Trabalhando no meu Portifólio.
 
