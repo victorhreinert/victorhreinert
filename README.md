@@ -3,7 +3,7 @@
 # Olá, Eu sou o Victor Hugo Reinert 👋
 
 - ⚡ Fato interresante: Meu sonho é ser desenvolvedor Fullstack.
-- 🌱 Formação: Estudante de análise e desenvolvimento de sistemas - UNITER. 
+- 🌱 Formação: Estudante de análise e desenvolvimento de sistemas - UNINTER. 
 - 🚀 Atualmente: Trabalhando no meu Portifólio.
 
 ## :rocket:&nbsp; Tecnologias
